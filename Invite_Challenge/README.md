@@ -2,7 +2,7 @@
 
 Hack The Boxの登録を行う。  
 Join Nowボタンを押すと以下の画面になる。  
-<img src="images/img1.png" width="500">  
+<img src="images/img1.png" width="650">  
 もちろんInvite Codeを持っていないが、どうやら拾ってくるようだ。  
 `https://www.hackthebox.eu/js/inviteapi.min.js`へのアクセスが見られるため見てみる。  
 以下のように記述されていた。  
